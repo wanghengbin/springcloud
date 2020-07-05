@@ -14,6 +14,7 @@ feign:
   hystrix:
     enabled: true
 
+#hystrix dashboard配置
 management:
   endpoints:
     web:

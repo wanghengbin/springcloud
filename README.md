@@ -7,3 +7,7 @@ order：提供服务的服务提供者
 memeber：提供服务的服务消费者
 gateway：实现zuul的微服务网关
 项目参考文章：https://blog.csdn.net/weixin_44448094/article/details/88535475
+
+hystrix-dashboard参考文档：
+https://www.cnblogs.com/tianmh/p/9202431.html
+
